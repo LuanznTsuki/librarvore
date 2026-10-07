@@ -1,0 +1,11 @@
+\# 📚 Librárvore — Back-end Plataforma digital de livros desenvolvida em equipe utilizando Java, Spring Boot e MySQL. 
+
+## 🚀 Tecnologias - 
+
+\*\*Linguagem:\*\* Java 17 / 21 - 
+\*\*Framework:\*\* Spring Boot (Spring Web, Spring Data JPA, Spring Validation) -
+\*\*Banco de Dados:\*\* MySQL - 
+\*\*Gerenciador de Dependências:\*\* Maven - 
+\*\*Versionamento:\*\* Git, GitHub e GitHub Desktop
+ 
+## 🛠️ Como Executar o Projeto Localmente 1\. Clone o repositório: \`\`\`bash git clone https://github.com/SEU\_USUARIO/librarvore-backend.git
